@@ -1,2 +1,3 @@
 # tutorial_zig
-tutorial zig arfy slowy
+tutorial bahasa pemograman zig youtube arfy slowy
+:qa
